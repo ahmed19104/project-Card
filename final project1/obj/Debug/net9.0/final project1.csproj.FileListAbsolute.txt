@@ -1,0 +1,1016 @@
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\appsettings.Development.json
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\appsettings.json
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\final project1.staticwebassets.runtime.json
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\final project1.staticwebassets.endpoints.json
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\final project1.exe
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\final project1.deps.json
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\final project1.runtimeconfig.json
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\final project1.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\final project1.pdb
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Azure.Core.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Azure.Identity.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Humanizer.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\System.ClientModel.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\System.CodeDom.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\System.Memory.Data.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\System.Text.Json.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\final project1.csproj.AssemblyReference.cache
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\final project1.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\final project1.AssemblyInfoInputs.cache
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\final project1.AssemblyInfo.cs
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\final project1.csproj.CoreCompileInputs.cache
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\final project1.MvcApplicationPartsAssemblyInfo.cache
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\final project1.RazorAssemblyInfo.cache
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\final project1.RazorAssemblyInfo.cs
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\scopedcss\bundle\final project1.styles.css
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\scopedcss\projectbundle\final project1.bundle.scp.css
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\qn305igzn2-b9sayid5wm.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\zi4irf3f64-61n19gt1b8.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\35iwm8qx7y-xtxxf3hu2r.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\gaz1eshal7-bqjiyaj88i.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\2pt2sn6a4h-c2jlpeoesf.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\w07w5eoujp-erw9l3u2r3.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\sjfb8ca5vx-aexeepp0ev.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\vigpyl76oa-d7shbmvgxk.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\s0l55q8bb0-ausgxo2sd3.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\1lq5eees70-k8d9w2qqmf.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\dbz5ocqjx9-cosvhxvwiu.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\ofq8w2dm29-ub07r2b239.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\hjgwlqi9jj-fvhpjtyr6v.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\v65cythxqr-b7pk76d08c.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\2fufrhwvwo-fsbi9cje9m.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\g8celgbe77-rzd6atqjts.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\hclc11sylw-ee0r1s7dh0.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\i12igampjm-dxx9fxp4il.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\ub94lsparu-jd9uben2k1.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\1yuxtvv05g-khv3u5hwcm.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\kp321s716a-r4e9w2rdcm.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\3cyvhrd2km-lcd1t2u6c8.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\eeiuco5yek-c2oey78nd0.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\rdbhufjwak-tdbxkamptv.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\1iecor63g1-j5mq2jizvt.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\52dxz3l8su-06098lyss8.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\6fl63n4k9d-nvvlpmu67g.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\gjguxdka2o-s35ty4nyc5.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\slq4jxjlpf-pj5nd1wqec.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\2rn91gekwb-46ein0sx1k.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\p5m3b5asse-v0zj4ognzu.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\80m1syzoon-37tfw0ft22.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\3382qea1cd-hrwsygsryq.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\6r2ivttxt2-pk9g2wxc8p.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\8pj5h2v6bz-ft3s53vfgj.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\vbwaox58kx-6cfz1n2cew.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\3o5kab1wlo-6pdc2jztkx.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\8jsjkq3wz5-493y06b0oq.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\p0imgm6gvn-iovd86k7lj.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\1cjsntnnwj-vr1egmr9el.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\9ausw55pnf-kbrnm935zg.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\fpapkhk771-jj8uyg4cgr.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\sntldchqi7-y7v9cxd14o.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\ohf3s4q0m6-notf2xhcfb.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\zyi31q12ig-h1s4sie4z3.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\qt9der67jl-63fj8s7r0e.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\r0v2mn49w3-0j3bgjxly4.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\a1kb9tmgo6-47otxtyo56.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\fwo1f2v5st-4v8eqarkd7.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\qjwedw9wm9-356vix0kms.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\2o5293b0w8-83jwlth58m.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\woh7a6g3qv-mrlpezrjn3.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\4v0c56tje9-lzl9nlhx6b.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\1697cxxth0-ag7o75518u.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\xn5miqpy9x-x0q3zqp4vz.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\klhhe544f8-0i3buxo5is.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\6h94zkow8k-o1o13a6vjx.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\zstopyvdnz-ttgo8qnofa.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\jtzbvfmkd0-2z0ns9nrw6.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\vnnnmtgekh-muycvpuwrr.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\55cb9g2vf4-87fc7y1x7t.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\fq3c54pipa-mlv21k5csn.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\65iqddd93b-2pfxjtaua1.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\compressed\ufrxij8nj4-2pfxjtaua1.gz
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\staticwebassets.build.json
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\staticwebassets.development.json
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\final pr.03C179ED.Up2Date
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\final project1.dll
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\refint\final project1.dll
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\final project1.pdb
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\final project1.genruntimeconfig.cache
+E:\vs-code\final project1\final project1\obj\Debug\net9.0\ref\final project1.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Build.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\NuGet.Common.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\NuGet.Configuration.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\NuGet.Frameworks.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\NuGet.LibraryModel.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\NuGet.Packaging.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\NuGet.ProjectModel.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\NuGet.Protocol.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\NuGet.Versioning.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\af\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ar\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\az\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\bg\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\cs\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\da\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\de\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\el\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\es\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\fa\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\fr\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\he\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\hr\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\hu\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\hy\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\id\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\is\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\it\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ja\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ku\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\lv\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\mt\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\nb\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\nl\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pl\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pt\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ro\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ru\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\sk\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\sl\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\sr\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\sv\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\tr\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\uk\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\vi\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\vs-code\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\appsettings.Development.json
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\appsettings.json
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\final project1.staticwebassets.endpoints.json
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\final project1.staticwebassets.runtime.json
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\final project1.exe
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\final project1.deps.json
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\final project1.runtimeconfig.json
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\final project1.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\final project1.pdb
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Azure.Core.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Azure.Identity.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Humanizer.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Build.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.Common.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.Configuration.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.Frameworks.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.LibraryModel.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.Packaging.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.ProjectModel.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.Protocol.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.Versioning.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\System.ClientModel.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\System.CodeDom.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\System.Memory.Data.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\System.Text.Json.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\af\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ar\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\az\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\bg\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\cs\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\da\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\de\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\el\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\es\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\fa\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\fr\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\he\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\hr\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\hu\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\hy\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\id\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\is\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\it\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ja\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ku\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\lv\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\mt\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\nb\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\nl\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pl\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pt\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ro\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ru\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\sk\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\sl\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\sr\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\sv\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\tr\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\uk\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\vi\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\final project1.csproj.AssemblyReference.cache
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\final project1.GeneratedMSBuildEditorConfig.editorconfig
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\final project1.AssemblyInfoInputs.cache
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\final project1.AssemblyInfo.cs
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\final project1.csproj.CoreCompileInputs.cache
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\final project1.MvcApplicationPartsAssemblyInfo.cache
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\final project1.RazorAssemblyInfo.cache
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\final project1.RazorAssemblyInfo.cs
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\scopedcss\bundle\final project1.styles.css
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\scopedcss\projectbundle\final project1.bundle.scp.css
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\qn305igzn2-b9sayid5wm.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\zi4irf3f64-61n19gt1b8.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\35iwm8qx7y-xtxxf3hu2r.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\gaz1eshal7-bqjiyaj88i.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\2pt2sn6a4h-c2jlpeoesf.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\w07w5eoujp-erw9l3u2r3.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\sjfb8ca5vx-aexeepp0ev.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\vigpyl76oa-d7shbmvgxk.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\s0l55q8bb0-ausgxo2sd3.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\1lq5eees70-k8d9w2qqmf.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\dbz5ocqjx9-cosvhxvwiu.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\ofq8w2dm29-ub07r2b239.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\hjgwlqi9jj-fvhpjtyr6v.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\v65cythxqr-b7pk76d08c.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\2fufrhwvwo-fsbi9cje9m.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\g8celgbe77-rzd6atqjts.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\hclc11sylw-ee0r1s7dh0.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\i12igampjm-dxx9fxp4il.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\ub94lsparu-jd9uben2k1.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\1yuxtvv05g-khv3u5hwcm.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\kp321s716a-r4e9w2rdcm.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\3cyvhrd2km-lcd1t2u6c8.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\eeiuco5yek-c2oey78nd0.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\rdbhufjwak-tdbxkamptv.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\1iecor63g1-j5mq2jizvt.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\52dxz3l8su-06098lyss8.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\6fl63n4k9d-nvvlpmu67g.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\gjguxdka2o-s35ty4nyc5.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\slq4jxjlpf-pj5nd1wqec.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\2rn91gekwb-46ein0sx1k.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\p5m3b5asse-v0zj4ognzu.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\80m1syzoon-37tfw0ft22.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\3382qea1cd-hrwsygsryq.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\6r2ivttxt2-pk9g2wxc8p.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\8pj5h2v6bz-ft3s53vfgj.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\vbwaox58kx-6cfz1n2cew.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\3o5kab1wlo-6pdc2jztkx.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\8jsjkq3wz5-493y06b0oq.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\p0imgm6gvn-iovd86k7lj.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\1cjsntnnwj-vr1egmr9el.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\9ausw55pnf-kbrnm935zg.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\fpapkhk771-jj8uyg4cgr.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\sntldchqi7-y7v9cxd14o.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\ohf3s4q0m6-notf2xhcfb.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\zyi31q12ig-h1s4sie4z3.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\qt9der67jl-63fj8s7r0e.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\r0v2mn49w3-0j3bgjxly4.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\a1kb9tmgo6-47otxtyo56.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\fwo1f2v5st-4v8eqarkd7.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\qjwedw9wm9-356vix0kms.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\2o5293b0w8-83jwlth58m.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\woh7a6g3qv-mrlpezrjn3.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\4v0c56tje9-lzl9nlhx6b.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\1697cxxth0-ag7o75518u.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\xn5miqpy9x-x0q3zqp4vz.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\klhhe544f8-0i3buxo5is.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\6h94zkow8k-o1o13a6vjx.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\zstopyvdnz-ttgo8qnofa.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\jtzbvfmkd0-2z0ns9nrw6.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\vnnnmtgekh-muycvpuwrr.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\55cb9g2vf4-87fc7y1x7t.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\fq3c54pipa-mlv21k5csn.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\65iqddd93b-2pfxjtaua1.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\compressed\ufrxij8nj4-2pfxjtaua1.gz
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\staticwebassets.build.json
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\staticwebassets.development.json
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\final pr.03C179ED.Up2Date
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\final project1.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\refint\final project1.dll
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\final project1.pdb
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\final project1.genruntimeconfig.cache
+E:\AHMED YASER\New folder (17)\final project1\final project1\final project1\obj\Debug\net9.0\ref\final project1.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\appsettings.Development.json
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\appsettings.json
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\final project1.staticwebassets.runtime.json
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\final project1.staticwebassets.endpoints.json
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\final project1.exe
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\final project1.deps.json
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\final project1.runtimeconfig.json
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\final project1.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\final project1.pdb
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Azure.Core.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Azure.Identity.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Humanizer.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Build.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.Common.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.Configuration.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.Frameworks.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.LibraryModel.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.Packaging.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.ProjectModel.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.Protocol.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\NuGet.Versioning.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\System.ClientModel.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\System.CodeDom.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\System.Memory.Data.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\af\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ar\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\az\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\bg\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\cs\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\da\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\de\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\el\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\es\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\fa\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\fr\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\he\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\hr\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\hu\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\hy\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\id\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\is\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\it\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ja\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ku\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\lv\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\mt\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\nb\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\nl\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pl\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pt\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ro\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ru\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\sk\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\sl\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\sr\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\sv\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\tr\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\uk\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\vi\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\final project1.csproj.AssemblyReference.cache
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\final project1.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\final project1.AssemblyInfoInputs.cache
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\final project1.AssemblyInfo.cs
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\final project1.csproj.CoreCompileInputs.cache
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\final project1.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\final project1.RazorAssemblyInfo.cache
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\final project1.RazorAssemblyInfo.cs
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\scopedcss\bundle\final project1.styles.css
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\scopedcss\projectbundle\final project1.bundle.scp.css
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\staticwebassets.build.json
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\staticwebassets.development.json
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\final pr.03C179ED.Up2Date
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\final project1.dll
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\refint\final project1.dll
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\final project1.pdb
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\final project1.genruntimeconfig.cache
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\ref\final project1.dll
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\ntaqrayu97-{0}-b9sayid5wm-b9sayid5wm.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\p4ce21rpvp-{0}-61n19gt1b8-61n19gt1b8.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\gz09vpjzaa-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\0vi52bkygn-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\lkt8sf97fs-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\m8d9wf71gu-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\1ju0oy4edz-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\2grv13l0l4-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\5xk06kci63-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\b42z8lzasc-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\8trsu4oon2-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\0qgi8k210u-{0}-ub07r2b239-ub07r2b239.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\fp2a9bjbft-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\k9041dww25-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\5blmxlni0n-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\kiaj42oe3y-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\wu0camc5se-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\9wqu75mij0-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\vxci8yu0yy-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\bwyzi6i26m-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\hp37k50pn0-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\cudadl1vus-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\elww9kkets-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\fsummnbexk-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\yhzlvryyek-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\sdj0z9gt8i-{0}-06098lyss8-06098lyss8.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\0qs1no31fn-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\auqlddag82-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\1xt65reij5-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\m2p9etef0e-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\gn76z79gad-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\9f8lspoak5-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\emu95ia1xj-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\ygqncisfk8-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\hxme04lcvz-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\xkzk1pu12z-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\s59fxstpcu-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\kwikqx4y64-{0}-493y06b0oq-493y06b0oq.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\bgeizv2hq6-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\qq9a0yk07t-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\f2uhqidrni-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\739elaemnl-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\ph8u4uaj97-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\0ingprdi0j-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\sp6grr10cn-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\f86n0rdtwh-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\ww9iit0uv6-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\5ac4wawn12-{0}-47otxtyo56-47otxtyo56.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\72vkcrdcrv-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\jfyx4ibj4y-{0}-356vix0kms-356vix0kms.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\7663q6tbj2-{0}-83jwlth58m-83jwlth58m.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\8h9rt974f7-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\73dlng6tqz-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\36bg3wufuj-{0}-ag7o75518u-ag7o75518u.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\aysiwvulfl-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\6ruou8k19c-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\mko9sly3fs-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\9lt6oscw82-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\xi7po59rup-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\2tobynae99-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\sfadlm1m92-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\hplji3pqj8-{0}-mlv21k5csn-mlv21k5csn.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\iin5b9mb7q-{0}-2a3ygghtyc-2a3ygghtyc.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\compressed\cuho786dqq-{0}-2a3ygghtyc-2a3ygghtyc.gz
+E:\New folder\final project1\final project1\final project1\obj\Debug\net9.0\swae.build.ex.cache
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\New folder\final project1\final project1\final project1\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll

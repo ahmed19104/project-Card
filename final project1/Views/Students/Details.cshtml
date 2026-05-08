@@ -1,0 +1,35 @@
+﻿@model final_project1.Models.Student
+
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+
+            <h2 class="mb-4 text-primary">Student Details</h2>
+            <hr />
+
+            <dl class="row mb-4">
+                <dt class="col-sm-3 text-muted">@Html.DisplayNameFor(model => model.Name)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Name)</dd>
+
+                <dt class="col-sm-3 text-muted">@Html.DisplayNameFor(model => model.Email)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Email)</dd>
+
+                <dt class="col-sm-3 text-muted">@Html.DisplayNameFor(model => model.IsActive)</dt>
+                <dd class="col-sm-9">@(Model.IsActive ? "Active" : "Inactive")</dd>
+
+                <dt class="col-sm-3 text-muted">@Html.DisplayNameFor(model => model.Course)</dt>
+                <dd class="col-sm-9">@Model.Course?.Name</dd>
+            </dl>
+
+            <div class="d-flex justify-content-between">
+                <a asp-action="Index" class="btn btn-outline-secondary">← Back to List</a>
+                <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary">Edit</a>
+            </div>
+
+        </div>
+    </div>
+</div>
