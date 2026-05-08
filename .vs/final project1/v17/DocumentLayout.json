@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\New folder\\New folder (2)\\project-Card\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE919E6F-B79E-45DD-8E03-BCBEF43665C8}|final project1\\final project1.csproj|e:\\new folder\\new folder (2)\\project-card\\final project1\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE919E6F-B79E-45DD-8E03-BCBEF43665C8}|final project1\\final project1.csproj|solutionrelative:final project1\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE919E6F-B79E-45DD-8E03-BCBEF43665C8}|final project1\\final project1.csproj|e:\\new folder\\new folder (2)\\project-card\\final project1\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE919E6F-B79E-45DD-8E03-BCBEF43665C8}|final project1\\final project1.csproj|solutionrelative:final project1\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -18,15 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\New folder\\New folder (2)\\project-Card\\final project1\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "final project1\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "E:\\New folder\\New folder (2)\\project-Card\\final project1\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "final project1\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-08T17:15:02.621Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\New folder\\New folder (2)\\project-Card\\final project1\\Views\\Students\\Create.cshtml",
               "RelativeDocumentMoniker": "final project1\\Views\\Students\\Create.cshtml",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "E:\\New folder\\New folder (2)\\project-Card\\final project1\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "final project1\\Controllers\\StudentsController.cs",
